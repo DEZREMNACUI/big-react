@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState, useContext, createContext, memo } from 'react';
 
 export default function App() {

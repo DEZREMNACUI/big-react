@@ -1,4 +1,4 @@
-import { useState, useContext, createContext, memo } from 'react';
+import React, { useState, useContext, createContext, memo } from 'react';
 
 const ctx = createContext(0);
 

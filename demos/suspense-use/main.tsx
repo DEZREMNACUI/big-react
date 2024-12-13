@@ -1,3 +1,4 @@
+import React from "react";
 import { Fragment, Suspense, useState } from 'react';
 import ReactDOM from 'react-dom/client';
 import { Cpn } from './Cpn';
